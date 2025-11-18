@@ -1,7 +1,9 @@
 # Linux Shell Assignment – CSFCP Unit 2
 
-**Student Name:** Kartik 
+**Student Name:** Kartik
+
 **Course:** B.Tech CSE (AI & Robotics)  
+
 **University:** K.R. Mangalam University  
 
 ---
