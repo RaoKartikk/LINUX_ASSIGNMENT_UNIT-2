@@ -2,7 +2,7 @@
 
 **Student Name:** Kartik
 
-**Course:** B.Tech CSE (AI & Robotics)  
+**Course:** B.Tech CSE (AI & ML)  
 
 **University:** K.R. Mangalam University  
 
